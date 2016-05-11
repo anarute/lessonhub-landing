@@ -28,6 +28,9 @@ h5{
 .social-icons a:hover{
    color: #D11149;
 }
+.navbar-item.fb-item{
+  margin-top: -20px;
+}
 .card{
   font-size: 1.2em;
   padding: 15px;
